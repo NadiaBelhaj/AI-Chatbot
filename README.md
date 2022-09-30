@@ -6,4 +6,4 @@ Presented with a view to obtaining the professional Master's degree in Data Scie
 
 Subject: Design and development of an intelligent business conversational assistant based on natural language processing using the Tunisian dialect
 
-Video Link : https://www.youtube.com/watch?v=vhvdGqkr4Z4
+Demo : https://www.youtube.com/watch?v=vhvdGqkr4Z4
